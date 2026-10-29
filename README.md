@@ -1,4 +1,4 @@
-# Mission Map — Lectern UI prototype
+# Mission Map — Lectern UI prototype (landscape)
 
 Self-contained prototype of the lectern selector (single `index.html`, no external dependencies).
 
@@ -9,4 +9,4 @@ Self-contained prototype of the lectern selector (single `index.html`, no extern
 
 The file is large (background video embedded). If the web uploader rejects it, push with git.
 
-Bottom-right switch toggles 9:16 / 3:4.
+The bottom bar switch previews the screen at 16:9 or 4:3. It is not part of the interface.
